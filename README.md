@@ -1,5 +1,5 @@
                                                             Welcome To Aora
-                                                          An App built in React native and Tailwind 
+                                              An App built in React native and Tailwind 
 
 Features
 * Upload video with thumbnail and description.
